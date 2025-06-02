@@ -1,12 +1,1 @@
-.idea/
-*.iml
-CMakeLists.txt.user
-CMakeCache.txt
-cmake-build-*/
 *.exe
-*.out
-*.o
-*.a
-*.so
-*.dSYM/
-*.pdb

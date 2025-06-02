@@ -1,0 +1,17 @@
+[33mcommit 47ac50aa3ea7f81877331b9704ac6e1dfbb68da7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: dehlizardo <deborah.lizardo@pucpr.edu.br>
+Date:   Mon Apr 21 19:39:40 2025 -0300
+
+    Add .gitignore to ignore .exe files
+
+[33mcommit 1b2d417c02c95e9917d53c1f123514c99edebcfa[m
+Author: dehlizardo <deborah.lizardo@pucpr.edu.br>
+Date:   Mon Apr 21 19:34:14 2025 -0300
+
+    Initial commit
+
+[33mcommit 66ef07376ebd4986f441d1a2bb9898ff88400da9[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: dehlizardo <deborah.lizardo@pucpr.edu.br>
+Date:   Mon Apr 21 19:12:56 2025 -0300
+
+    Initial commit
